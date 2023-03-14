@@ -1,5 +1,8 @@
 _repo: Designs-for-Crazy-Daisy-Winder-b-Crochet-Time-Cut-in-Half_70205
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70205-h/images/backcover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70205#Designs-for-Crazy-Daisy-Winder-b-Crochet-Time-Cut-in-Half
 gutenberg_issued: '2023-03-05'
 identifiers:
   gutenberg: '70205'
